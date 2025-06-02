@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Hock Seng Koh",
+        "role": "President",
+        "year": 2025,
+        "image": "https://raw.githubusercontent.com/yuhua-tmc/website-details/main/president.png"
+    },
+    {
+        "name": "Angeline Lim",
+        "role": "Vice President Education",
+        "year": 2025,
+        "image": "https://raw.githubusercontent.com/yuhua-tmc/website-details/main/D%20VPE.png"
+    },
+    {
+        "name": "Ben Yang",
+        "role": "Vice President Membership",
+        "year": 2025,
+        "image": "https://raw.githubusercontent.com/yuhua-tmc/website-details/main/VPM.png"
+    },
+    {
+        "name": "Thu Huong Pham",
+        "role": "Vice President Public Relations",
+        "year": 2025,
+        "image": "https://raw.githubusercontent.com/yuhua-tmc/website-details/main/VPPR.png"
+    },
+    {
+        "name": "Elise Yap",
+        "role": "Secretary",
+        "year": 2025,
+        "image": "https://raw.githubusercontent.com/yuhua-tmc/website-details/main/Secretary.png"
+    },
+    {
+        "name": "Shi Hui Tee",
+        "role": "Treasurer",
+        "year": 2025,
+        "image": "https://raw.githubusercontent.com/yuhua-tmc/website-details/main/treasurer.png"
+    },
+    {
+        "name": "Gibson Tan",
+        "role": "Sergeant at Arms",
+        "year": 2025,
+        "image": "https://raw.githubusercontent.com/yuhua-tmc/website-details/main/SAA.png"
+    }
+]
