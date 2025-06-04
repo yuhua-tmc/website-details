@@ -40,5 +40,29 @@
         "role": "Sergeant at Arms",
         "year": 2025,
         "image": "https://raw.githubusercontent.com/yuhua-tmc/website-details/main/SAA.png"
+    },
+    {
+        "name": "Edwin Koh",
+        "role": "Immediate Past President",
+        "year": 2025,
+        "image": "https://raw.githubusercontent.com/yuhua-tmc/website-details/main/ImmediatePastPresident.png"
+    },
+    {
+        "name": "TBD",
+        "role": "Club Advisor",
+        "year": 2025,
+        "image": "https://raw.githubusercontent.com/yuhua-tmc/website-details/main/ClubAdvisor.png"
+    },
+    {
+        "name": "TBD",
+        "role": "Club Coach",
+        "year": 2025,
+        "image": "https://raw.githubusercontent.com/yuhua-tmc/website-details/main/ClubCoach.png"
+    },
+    {
+        "name": "TBD",
+        "role": "Club Mentor",
+        "year": 2025,
+        "image": "https://raw.githubusercontent.com/yuhua-tmc/website-details/main/ClubMentor.png"
     }
 ]
