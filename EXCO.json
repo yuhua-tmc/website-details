@@ -1,50 +1,50 @@
 [
     {
-        "name": "EDWIN KOH",
+        "name": "HOCK SENG KOH",
         "role": "PRESIDENT",
-        "year": "2024-2025",
+        "year": "2025-2026",
         "image": "https://raw.githubusercontent.com/yuhua-tmc/website-details/main/president.png"
     },
     {
         "name": "ELISE YAP",
-        "role": "INCOMING VICE PRESIDENT EDUCAION",
+        "role": "VICE PRESIDENT EDUCAION",
         "year": "2025-2026",
         "image": "https://raw.githubusercontent.com/yuhua-tmc/website-details/main/VPE.png"
     },
     {
         "name": "BEN YANG",
-        "role": "INCOMING VICE PRESIDENT MEMBERSHIP",
+        "role": "VICE PRESIDENT MEMBERSHIP",
         "year": "2025-2026",
         "image": "https://raw.githubusercontent.com/yuhua-tmc/website-details/main/VPM.png"
     },
     {
         "name": "HANA PHAM",
-        "role": "INCOMING VICE PRESIDENT PUBLIC RELATIONS",
+        "role": "VICE PRESIDENT PUBLIC RELATIONS",
         "year": "2025-2026",
         "image": "https://raw.githubusercontent.com/yuhua-tmc/website-details/main/VPPR.png"
     },
     {
         "name": "ANGELINE LIM",
-        "role": "INCOMING SECRETARY",
+        "role": "SECRETARY",
         "year": "2025-2026",
         "image": "https://raw.githubusercontent.com/yuhua-tmc/website-details/main/Secretary.png"
     },
     {
         "name": "SHI HUI TEE",
-        "role": "INCOMING TREASURER",
+        "role": "TREASURER",
         "year": "2025-2026",
         "image": "https://raw.githubusercontent.com/yuhua-tmc/website-details/main/treasurer.png"
     },
     {
         "name": "GIBSON TAN",
-        "role": "INCOMING SERGEANT AT ARMS",
+        "role": "SERGEANT AT ARMS",
         "year": "2025-2026",
         "image": "https://raw.githubusercontent.com/yuhua-tmc/website-details/main/SAA.png"
     },
     {
-        "name": "HOCK SENG KOH",
-        "role": "INCOMING PRESIDENT",
-        "year": "2025-2026",
+        "name": "EDWIN KOH",
+        "role": "IMMEDIATE PAST PRESIDENT",
+        "year": "2024-2025",
         "image": "https://raw.githubusercontent.com/yuhua-tmc/website-details/main/ImmediatePastPresident.png"
     },
     {
