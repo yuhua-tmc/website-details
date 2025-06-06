@@ -9,25 +9,25 @@
         "name": "ELISE YAP",
         "role": "VICE PRESIDENT EDUCAION",
         "year": "2025-2026",
-        "image": "https://raw.githubusercontent.com/yuhua-tmc/website-details/main/VPE.png"
+        "image": "https://raw.githubusercontent.com/yuhua-tmc/website-details/main/vpe.png"
     },
     {
         "name": "BEN YANG",
         "role": "VICE PRESIDENT MEMBERSHIP",
         "year": "2025-2026",
-        "image": "https://raw.githubusercontent.com/yuhua-tmc/website-details/main/VPM.png"
+        "image": "https://raw.githubusercontent.com/yuhua-tmc/website-details/main/vpm.png"
     },
     {
         "name": "HANA PHAM",
         "role": "VICE PRESIDENT PUBLIC RELATIONS",
         "year": "2025-2026",
-        "image": "https://raw.githubusercontent.com/yuhua-tmc/website-details/main/VPPR.png"
+        "image": "https://raw.githubusercontent.com/yuhua-tmc/website-details/main/vppr.png"
     },
     {
         "name": "ANGELINE LIM",
         "role": "SECRETARY",
         "year": "2025-2026",
-        "image": "https://raw.githubusercontent.com/yuhua-tmc/website-details/main/Secretary.png"
+        "image": "https://raw.githubusercontent.com/yuhua-tmc/website-details/main/secretary.png"
     },
     {
         "name": "SHI HUI TEE",
@@ -39,13 +39,13 @@
         "name": "GIBSON TAN",
         "role": "SERGEANT AT ARMS",
         "year": "2025-2026",
-        "image": "https://raw.githubusercontent.com/yuhua-tmc/website-details/main/SAA.png"
+        "image": "https://raw.githubusercontent.com/yuhua-tmc/website-details/main/saa.png"
     },
     {
         "name": "EDWIN KOH",
         "role": "IMMEDIATE PAST PRESIDENT",
         "year": "2024-2025",
-        "image": "https://raw.githubusercontent.com/yuhua-tmc/website-details/main/ImmediatePastPresident.png"
+        "image": "https://raw.githubusercontent.com/yuhua-tmc/website-details/main/immediatepastpresident.png"
     },
     {
         "name": "TBD",
@@ -54,15 +54,15 @@
         "image": "https://raw.githubusercontent.com/yuhua-tmc/website-details/main/ClubAdvisor.png"
     },
     {
-        "name": "TBD",
+        "name": "RAGHUPATHY",
         "role": "CLUB COACH",
         "year": "2025-2026",
-        "image": "https://raw.githubusercontent.com/yuhua-tmc/website-details/main/ClubCoach.png"
+        "image": "https://raw.githubusercontent.com/yuhua-tmc/website-details/main/clubcoach.png"
     },
     {
-        "name": "TBD",
+        "name": "HAW LEONG BAN",
         "role": "CLUB MENTOR",
         "year": "2025-2026",
-        "image": "https://raw.githubusercontent.com/yuhua-tmc/website-details/main/ClubMentor.png"
+        "image": "https://raw.githubusercontent.com/yuhua-tmc/website-details/main/clubmentor.png"
     }
 ]
